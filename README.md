@@ -16,7 +16,7 @@ Colab code blog for endovis challenge on surgical action triplet recognition.
 
 <i>C.I. Nwoye, D. Alapatt, A. Vardazayan, and N. Padoy</i>
 
-<img src="https://github.com/CAMMA-public/cholectriplet2022/blob/main/file/logo2021.png?" width="100%">
+<img src="https://github.com/CAMMA-public/cholectriplet2021/blob/main/file/logo2021.png?" width="89%">
 
 This repository contains some implementation code: mock demo model, data loader, docker build guides and evaluation scripts.
 
